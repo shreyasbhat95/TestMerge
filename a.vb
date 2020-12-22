@@ -11,4 +11,5 @@ Console.Writeline("c is equal to d")
 end if
 if (e = f) then
 Console.Writeline("e is equal to f")
+Console.Writeline("a c and e are not equal")
 end if
